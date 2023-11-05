@@ -747,7 +747,7 @@ Banner Style
   position: relative;
 }
 
-.main-banner .right-image a {
+.main-banner .right-image iframe {
   border-radius: 25px;
 }
 
