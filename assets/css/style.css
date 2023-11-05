@@ -747,7 +747,7 @@ Banner Style
   position: relative;
 }
 
-.main-banner .right-image img {
+.main-banner .right-image a {
   border-radius: 25px;
 }
 
