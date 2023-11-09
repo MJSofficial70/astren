@@ -741,7 +741,11 @@ Banner Style
   position: relative;
 }
 
-.main-banner .right-image iframe {
+.main-banner .right-image .iframeContainer {
+  position: relative;
+}
+
+.main-banner .right-image .iframeContainer .iframe {
   position: asbsolute;
   top: 800px;
   border-radius: 25px;
