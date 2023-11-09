@@ -1,10 +1,4 @@
-/*
 
-TemplateMo 589 lugx gaming
-
-https://templatemo.com/tm-589-lugx-gaming
-
-*/
 
 /* ---------------------------------------------
 Table of contents
@@ -748,6 +742,7 @@ Banner Style
 }
 
 .main-banner .right-image iframe {
+  top: 800px;
   border-radius: 25px;
 }
 
