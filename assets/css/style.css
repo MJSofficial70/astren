@@ -742,6 +742,7 @@ Banner Style
 }
 
 .main-banner .right-image iframe {
+  position: asbsolute;
   top: 800px;
   border-radius: 25px;
 }
